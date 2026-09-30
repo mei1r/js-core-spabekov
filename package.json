@@ -1,0 +1,24 @@
+{
+  "name": "js-core-spabekov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mei1r/js-core-spabekov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mei1r/js-core-spabekov/issues"
+  },
+  "homepage": "https://github.com/mei1r/js-core-spabekov#readme",
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  }
+}
