@@ -28,4 +28,4 @@ I utilized closures in two functions: `memoize` and `counter`. A closure is a fu
 ![Test Results](test.png)
 
 ## 5. AI Tools Used
-I used **Gemini** to assist with the project. It helped me design edge cases for the Vitest unit tests (e.g., handling empty arrays, Date objects, and invalid types). I also used it to verify the correct modern syntax for JavaScript private class fields (`#`) and static methods.
+I used **Google Gemini** to assist with the project. 
